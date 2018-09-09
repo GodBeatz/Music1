@@ -1,4 +1,4 @@
-token=process.env.TOKEN
+token=NDg4Mzc3MjIzNzg3NzA4NDQ3.DnbUdA.DH5COvygdvq2Nh6vuzc8wKMYPQU
 owner=449313863494664214
 prefix=1
 game=Dynasty Server
