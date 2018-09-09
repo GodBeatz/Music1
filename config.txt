@@ -1,6 +1,6 @@
-token=YOUR BOT TOKEN HERE
-owner=YOUR OWNER ID HERE
-prefix=YOUR PREFIX HERE!!!
-game=Alpha Bots!
+token=process.env.TOKEN
+owner=449313863494664214
+prefix=1
+game=Dynasty Server
 stayinchannel=true
 songinstatus=true
